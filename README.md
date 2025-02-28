@@ -1,4 +1,4 @@
-# GPT--4.5-Introducing GPT-4.5 on Azure OpenAI Service
+# Introducing GPT-4.5 on Azure OpenAI Service
 
 ## Introducing GPT-4.5 on Azure OpenAI Service: A New Era of AI
 
